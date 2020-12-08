@@ -44,7 +44,7 @@ const [{basket}, dispatch] = useStateValue();
                         <ShoppingCartIcon />
                         <span className="header_optionLineTwo header_basketCount">{basket?.length}</span>
                     </div>
-                </Link>
+                </Link> 
             </div>
         </div>
     )
