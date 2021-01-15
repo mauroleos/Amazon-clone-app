@@ -2,7 +2,7 @@
 
 This is a Amazon Clone written in Javascript, CSS, and NodeJs. It uses React, Bootstrap, ExpressJs as an internal API, and is deployed with Firebase.
 
-<strong>View application on <a href="https://clone-e30b3.web.app//"><b>Heroku</b></a>.</strong>
+<strong>View application <a href="https://clone-e30b3.web.app//"><b>here</b></a>.</strong>
 
 <img src="image/amazon-clone.png" alt="image">
 
