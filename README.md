@@ -1,6 +1,6 @@
 # Amazon-Clone-app
 
-This is a Amazon Clone written in  HTML, CSS, Javascript, and NodeJs. It uses React, Bootstrap, ExpressJs, and is deployed with Cloud Firestore and Firebase hosting.
+This is a Amazon Clone written in  HTML, CSS, Javascript, and NodeJs. It uses React, ExpressJs, and is deployed with Cloud Firestore and Firebase hosting.
 
 <strong>View application <a href="https://clone-e30b3.web.app//"><b>here</b></a>.</strong>
 
